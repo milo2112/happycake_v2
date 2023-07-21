@@ -1,0 +1,9 @@
+.reverse {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+body {
+    /* background-color: #f4f4f4; */
+    background-color: #f8f4f4;
+}
